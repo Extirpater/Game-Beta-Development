@@ -1,9 +1,0 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Evades new version</title><meta name="description" content="Evade enemies, save friends, upgrade stats & abilities, and unlock new heroes! Multiplayer cooperative roguelike webgame."><meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"><meta name="HandheldFriendly" content="True"><meta name="MobileOptimized" content="320"><meta content="on"><script src="https://cdn.polyfill.io/v2/polyfill.min.js?features=default,performance.now"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-112980205-1"></script><script async="" src="//api.adinplay.com/display/pub/EVD/evades.io/display.min.js"></script><script src="https://www.google.com/recaptcha/api.js?onload=getCaptchaResponse&render=explicit" async="" defer=""></script><link rel="stylesheet" href="/app.ce180657.css"></head><body>
-
-<div id="captcha-overlay" class="captcha-overlay" style="visibility:hidden"> <div class="captcha-popup"> <h2>Please verify you're a human.</h2> <a id="captcha-close" class="captcha-close">&times;</a> <div class="captcha-content"> <div id="captcha"></div> </div> </div>
-</div> <canvas id="canvas" width="1280" height="720" tabindex="0"></canvas>
-<div id="app"></div>
-<script src="C:/Users/1569524/Downloads/Evades/ads.bd1aeff2.js"></script>
-<script>function a(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],a("js",new Date),a("config","UA-112980205-1"),window.aiptag=window.aiptag||{},window.aiptag.cmd=window.aiptag.cmd||[],window.aiptag.cmd.display=window.aiptag.cmd.display||[];var d="6Ldw2qcUAAAAAOS_EmwbldM1BJQqRT0WVBORW-Y1";"localhost"===window.location.hostname&&(d="6Lf92qcUAAAAAHwCJuagVapPdNyjg81I18YQmCe3"),window.recaptchaSitekey=d,window.adBlockerDetected=Boolean(!document.getElementById("ad-blocker-test"));</script>
-<script src="/app.493985f0.js"></script>
-</body></html>
